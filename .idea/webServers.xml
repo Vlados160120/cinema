@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="316675bf-8c6b-43f2-b103-27b6abe460a6" name="cinema" url="http://cinema">
+        <fileTransfer port="0" mountedRoot="C:\Open Server\OpenServer\domains\cinema" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
